@@ -23,14 +23,6 @@ Aspiring **Future AI Systems Engineer** crafting intelligent, reliable, and prod
 
 ---
 
-## 💼 Selected Projects (Highlights)
-> *Add links to project repos here. Examples you can include:*  
-- **AI Assistant (RAG + LangChain)** — Retrieval pipeline + vector DB + deployment.  
-- **Scalable Microservices** — Event-driven architecture with monitoring and autoscaling.  
-- **Production ML Infra** — End-to-end training → serving → CI/CD.
-
----
-
 ## 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Venkey2238&show_icons=true&theme=radical)
@@ -43,12 +35,5 @@ Aspiring **Future AI Systems Engineer** crafting intelligent, reliable, and prod
 - 🌐 **Portfolio:** Coming up — will link here soon
 
 ---
-
-## ⚡ Want this README customized?
-I can:
-- Add project cards with repo links and screenshots  
-- Create a "Pinned Projects" section with short summaries  
-- Add badges (build, license, LinkedIn) and a landing GIF/banner  
-- Provide a lightweight GitHub Actions workflow to update stats automatically
 
 Thanks for visiting — let's build intelligent systems that scale! 🚀
