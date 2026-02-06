@@ -60,33 +60,14 @@ This is **production-grade intelligence**.
 
 ---
 
-## 📊 GitHub Intelligence Metrics (FIXED)
+
+
+## 🌍 Contribution Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Venkey2238&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkey2238&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🔥 Consistency Streak (FIXED)
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Venkey2238&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🌍 Contribution Graph (WORKING & MAINTAINED)
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Venkey2238&theme=tokyo-night&hide_border=true"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Venkey2238&theme=tokyo-night&area=true" />
 
 </div>
 
