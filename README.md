@@ -44,7 +44,7 @@ This is **production-grade intelligence**.
 
 | Backend & Systems | AI & Intelligence | Data Layer | DevOps |
 |------------------|------------------|-----------|--------|
-| FastAPI, Django, Python, Java | LLMs, RAG, Embeddings | PostgreSQL, MongoDB, Redis | Docker, AWS, CI/CD |
+| FastAPI, Python | LLMs, RAG, Embeddings | PostgreSQL| Docker, AWS, CI/CD | HTML, CSS, JS |
 | Async APIs | Agentic Workflows | Vector Search | Cloud-Native |
 
 </div>
